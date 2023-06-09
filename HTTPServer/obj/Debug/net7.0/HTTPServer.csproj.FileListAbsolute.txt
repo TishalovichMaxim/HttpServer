@@ -1,0 +1,15 @@
+C:\Users\Maxim\Documents\MyCorner\C#\HTTPServer\HTTPServer\bin\Debug\net7.0\HTTPServer.exe
+C:\Users\Maxim\Documents\MyCorner\C#\HTTPServer\HTTPServer\bin\Debug\net7.0\HTTPServer.deps.json
+C:\Users\Maxim\Documents\MyCorner\C#\HTTPServer\HTTPServer\bin\Debug\net7.0\HTTPServer.runtimeconfig.json
+C:\Users\Maxim\Documents\MyCorner\C#\HTTPServer\HTTPServer\bin\Debug\net7.0\HTTPServer.dll
+C:\Users\Maxim\Documents\MyCorner\C#\HTTPServer\HTTPServer\bin\Debug\net7.0\HTTPServer.pdb
+C:\Users\Maxim\Documents\MyCorner\C#\HTTPServer\HTTPServer\obj\Debug\net7.0\HTTPServer.csproj.AssemblyReference.cache
+C:\Users\Maxim\Documents\MyCorner\C#\HTTPServer\HTTPServer\obj\Debug\net7.0\HTTPServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxim\Documents\MyCorner\C#\HTTPServer\HTTPServer\obj\Debug\net7.0\HTTPServer.AssemblyInfoInputs.cache
+C:\Users\Maxim\Documents\MyCorner\C#\HTTPServer\HTTPServer\obj\Debug\net7.0\HTTPServer.AssemblyInfo.cs
+C:\Users\Maxim\Documents\MyCorner\C#\HTTPServer\HTTPServer\obj\Debug\net7.0\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Documents\MyCorner\C#\HTTPServer\HTTPServer\obj\Debug\net7.0\HTTPServer.dll
+C:\Users\Maxim\Documents\MyCorner\C#\HTTPServer\HTTPServer\obj\Debug\net7.0\refint\HTTPServer.dll
+C:\Users\Maxim\Documents\MyCorner\C#\HTTPServer\HTTPServer\obj\Debug\net7.0\HTTPServer.pdb
+C:\Users\Maxim\Documents\MyCorner\C#\HTTPServer\HTTPServer\obj\Debug\net7.0\HTTPServer.genruntimeconfig.cache
+C:\Users\Maxim\Documents\MyCorner\C#\HTTPServer\HTTPServer\obj\Debug\net7.0\ref\HTTPServer.dll
